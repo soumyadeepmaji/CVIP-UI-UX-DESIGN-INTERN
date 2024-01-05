@@ -1,0 +1,388 @@
+.porridge-final {
+    background-color: #ffdfb0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .porridge-final .div {
+    background-color: #ffdfb0;
+    overflow: hidden;
+    width: 1440px;
+    height: 844px;
+    position: relative;
+  }
+  
+  .porridge-final .overlap {
+    position: absolute;
+    width: 2468px;
+    height: 2025px;
+    top: 0;
+    left: 0;
+  }
+  
+  .porridge-final .ellipse {
+    position: absolute;
+    width: 826px;
+    height: 844px;
+    top: 0;
+    left: 0;
+  }
+  
+  .porridge-final .oats-wheat-removebg {
+    width: 364px;
+    height: 479px;
+    top: 0;
+    left: 217px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .porridge-final .img {
+    width: 318px;
+    height: 365px;
+    top: 479px;
+    left: 0;
+    mix-blend-mode: multiply;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .porridge-final .text-wrapper {
+    position: absolute;
+    top: 40px;
+    left: 795px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .component {
+    position: absolute;
+    width: 598px;
+    height: 49px;
+    top: 142px;
+    left: 795px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .porridge-final .p {
+    position: absolute;
+    width: 284px;
+    top: 12px;
+    left: 14px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 19.4px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .porridge-final .ellipse-2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 154px;
+    left: 1353px;
+    border-radius: 8.14px;
+    border: 2.71px solid;
+    border-color: #000000;
+  }
+  
+  .porridge-final .line {
+    position: absolute;
+    width: 10px;
+    height: 12px;
+    top: 166px;
+    left: 1364px;
+  }
+  
+  .porridge-final .ellipse-3 {
+    position: absolute;
+    width: 1359px;
+    height: 1359px;
+    top: 384px;
+    left: 828px;
+    background-color: #d6a56b;
+    border-radius: 679.42px/679.45px;
+    transform: rotate(44.52deg);
+  }
+  
+  .porridge-final .thali-removebg {
+    width: 116px;
+    height: 700px;
+    top: 144px;
+    left: 1324px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .porridge-final .text-wrapper-2 {
+    position: absolute;
+    width: 461px;
+    top: 219px;
+    left: 74px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 50.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .overlap-group-wrapper {
+    position: absolute;
+    width: 539px;
+    height: 77px;
+    top: 294px;
+    left: 74px;
+    overflow: hidden;
+  }
+  
+  .porridge-final .overlap-group {
+    position: relative;
+    height: 234px;
+    top: -1px;
+  }
+  
+  .porridge-final .ZEPTO {
+    position: absolute;
+    width: 212px;
+    top: 15px;
+    left: 316px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 50.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .span {
+    font-weight: 300;
+  }
+  
+  .porridge-final .text-wrapper-3 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 64px;
+  }
+  
+  .porridge-final .faster-than {
+    position: absolute;
+    width: 539px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .text-wrapper-4 {
+    font-weight: 600;
+  }
+  
+  .porridge-final .text-wrapper-5 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+  }
+  
+  .porridge-final .text-wrapper-6 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    font-size: 50.4px;
+  }
+  
+  .porridge-final .ellipse-4 {
+    position: absolute;
+    width: 111px;
+    height: 112px;
+    top: 577px;
+    left: 52px;
+    background-color: #d9d9d908;
+    border-radius: 55.5px/56px;
+    box-shadow: 6px 5px 14.2px -2px #000000;
+  }
+  
+  .porridge-final .ellipse-5 {
+    position: absolute;
+    width: 114px;
+    height: 112px;
+    top: 577px;
+    left: 190px;
+    background-color: #d9d9d908;
+    border-radius: 57px/56px;
+    box-shadow: 6px 5px 14.2px -2px #000000;
+  }
+  
+  .porridge-final .ellipse-6 {
+    position: absolute;
+    width: 120px;
+    height: 122px;
+    top: 567px;
+    left: 337px;
+    background-color: #d9d9d908;
+    border-radius: 60px/61px;
+    box-shadow: 6px 5px 14.2px -2px #000000;
+  }
+  
+  .porridge-final .ellipse-7 {
+    position: absolute;
+    width: 131px;
+    height: 125px;
+    top: 572px;
+    left: 494px;
+    background-color: #d9d9d908;
+    border-radius: 65.5px/62.5px;
+    box-shadow: 6px 5px 14.2px -2px #000000;
+  }
+  
+  .porridge-final .cake-final-removebg {
+    position: absolute;
+    width: 157px;
+    height: 161px;
+    top: 553px;
+    left: 479px;
+    object-fit: cover;
+  }
+  
+  .porridge-final .oats-removebg {
+    width: 118px;
+    height: 122px;
+    top: 572px;
+    left: 52px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .porridge-final .thali-removebg-2 {
+    width: 141px;
+    height: 177px;
+    top: 545px;
+    left: 180px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .porridge-final .alexander-mils {
+    position: absolute;
+    width: 140px;
+    height: 210px;
+    top: 528px;
+    left: 329px;
+    object-fit: cover;
+  }
+  
+  .porridge-final .oats-removebg-2 {
+    width: 620px;
+    height: 618px;
+    top: 226px;
+    left: 820px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .porridge-final .ellipse-8 {
+    position: absolute;
+    width: 406px;
+    height: 400px;
+    top: 339px;
+    left: 940px;
+    background-color: #d9d9d903;
+    border-radius: 202.78px/199.77px;
+    box-shadow: 15.37px 18.04px 16.44px 4.01px #86581f;
+  }
+  
+  .porridge-final .div-wrapper {
+    position: absolute;
+    width: 58px;
+    height: 108px;
+    top: 119px;
+    left: 74px;
+  }
+  
+  .porridge-final .text-wrapper-7 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 89.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .text-wrapper-8 {
+    position: absolute;
+    top: 40px;
+    left: 922px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .text-wrapper-9 {
+    position: absolute;
+    top: 40px;
+    left: 1085px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .text-wrapper-10 {
+    position: absolute;
+    top: 40px;
+    left: 1251px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .porridge-final .overlap-2 {
+    position: absolute;
+    width: 1647px;
+    height: 818px;
+    top: 3530px;
+    left: 396px;
+  }
+  
+  .porridge-final .alexander-mils-2 {
+    position: absolute;
+    width: 1045px;
+    height: 698px;
+    top: 0;
+    left: 602px;
+    object-fit: cover;
+  }
+  
+  .porridge-final .cake-design-removebg {
+    position: absolute;
+    width: 666px;
+    height: 690px;
+    top: 128px;
+    left: 0;
+    object-fit: cover;
+  }
+  
